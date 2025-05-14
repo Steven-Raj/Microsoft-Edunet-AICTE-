@@ -120,7 +120,6 @@ Dataset: UCI Poker Hand Dataset
 
 Visualizations: Yellowbrick
 
-yaml
 
 
 ---
