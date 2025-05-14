@@ -97,7 +97,7 @@ Matplotlib
 
 pip install pandas scikit-learn yellowbrick matplotlib
 
-##🚀 How to Run
+## 🚀 How to Run
 Clone this repository
 
 Install required packages
