@@ -43,6 +43,8 @@ MLPClassifier(
     learning_rate='adaptive',
     activation='tanh'
 )
+```
+
 📊 Exploratory Data Analysis
 Checked class distribution with Yellowbrick
 
