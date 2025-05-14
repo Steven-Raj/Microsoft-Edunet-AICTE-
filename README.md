@@ -71,15 +71,20 @@ Class Prediction Error
 
 
 ## 📉 Visualizations
-Visualized using Yellowbrick:
 
-Class Balance
+![image](https://github.com/user-attachments/assets/259dcfef-f3ea-451c-a001-2b88c2caa90e)
 
-ROC Curve
+![image](https://github.com/user-attachments/assets/b55eb024-d8d1-4f85-89d1-f5a8b1ec893d)
 
-Classification Report
+![image](https://github.com/user-attachments/assets/e79702c9-f87a-43ef-9ad1-ccb4e4739a81)
 
-Class Prediction Error
+![image](https://github.com/user-attachments/assets/cb41a80c-8cd8-4e3f-a90f-0698d4dd9832)
+
+![image](https://github.com/user-attachments/assets/4ed0c7c2-1db1-4771-b63d-bc9eb77ae7a6)
+
+
+
+
 
 ## 🧰 Tech Stack
 Python
