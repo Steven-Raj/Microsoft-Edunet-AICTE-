@@ -44,15 +44,16 @@ MLPClassifier(
     activation='tanh'
 )
 ```
----
 
-📊 Exploratory Data Analysis
+
+## 📊 Exploratory Data Analysis
+
 Checked class distribution with Yellowbrick
 
 Addressed class imbalance by merging underrepresented classes into one
----
 
-🧪 Evaluation
+
+## 🧪 Evaluation
 Train Accuracy: ~77.6%
 
 Test Accuracy: ~77.4%
@@ -67,9 +68,9 @@ ROC Curve
 Classification Report
 
 Class Prediction Error
----
 
-📉 Visualizations
+
+## 📉 Visualizations
 Visualized using Yellowbrick:
 
 Class Balance
@@ -79,9 +80,8 @@ ROC Curve
 Classification Report
 
 Class Prediction Error
----
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 Python
 
 Pandas
@@ -91,13 +91,13 @@ Scikit-learn
 Yellowbrick
 
 Matplotlib
----
 
-🔧 Install Requirements
+
+## 🔧 Install Requirements
 
 pip install pandas scikit-learn yellowbrick matplotlib
----
-🚀 How to Run
+
+##🚀 How to Run
 Clone this repository
 
 Install required packages
@@ -105,17 +105,17 @@ Install required packages
 Open and run the Jupyter notebook:
 
 jupyter notebook poker_hand_classifier.ipynb
----
 
-📌 Future Enhancements
+
+## 📌 Future Enhancements
 Apply ensemble models (RandomForest, XGBoost)
 
 Improve class balance using SMOTE or oversampling
 
 Deploy model using Streamlit or Flask for live predictions
----
 
-🙏 Acknowledgments
+
+## 🙏 Acknowledgments
 Dataset: UCI Poker Hand Dataset
 
 Visualizations: Yellowbrick
